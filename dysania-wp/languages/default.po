@@ -1,0 +1,852 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in echo
+#: dysania-wp/includes/functions.php:951
+msgid " Theme Settings"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/comments.php:35
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:245
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/comments.php:20
+msgid "&#8249; Older comments"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/archive.php:49 dysania-wp/category.php:49
+#: dysania-wp/index.php:55 dysania-wp/search.php:41
+msgid "&#8249; Older posts"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/404.php:4
+msgid "&larr; Home"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:245
+msgid "(Edit)"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/404.php:3
+msgid "404 - Page Not Found!"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "404 Page Background Image URL"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "404 Page Bg Image"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:244
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">-</span>"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/single.php:55
+msgid "AUTHOR: "
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid ""
+"Add your filters between [filter][/filter] shortcodes. Dysania Grid Gallery "
+"Plugin is required."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Background Image URL"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Behance"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Behance Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136 dysania-wp/index.php:19
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/archive.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Blog Image"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Blog Post Featured Image"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/single.php:55
+msgid "CATEGORY: "
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Colors"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/comments.php:7
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Contact Form"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Contact Form E-Mail"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Contact form content will be send to this email address"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Custom Favicon URL"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Custom Header Script"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Custom Icon Image"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Custom Icon Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/archive.php:13
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Disable Autoplay"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Dribbble"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Dribbble Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Dropdown Menu Width"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Dropdown Menu Width (em)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Dysania Grid Gallery Plugin is required."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "E-Mail Field Text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "E-Mail Subject"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "E-Mail field text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Facebook Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Fifth Color"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Filter Shortcode (Optional)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "First Color"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "First Font-Family (Default Font-Family is Oswald)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "First Font-Family (For Titles)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "First Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "First Google Web Fonts Stylesheet Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Flickr Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Fonts"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Footer 1"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Footer 2"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Footer 3"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Footer Text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Fourth Color"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Gallery ID"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Gallery Title"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Google Plus"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Google Plus Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Google Web Fonts Stylesheet Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid ""
+"Google Web Fonts Stylesheet Link (For more information please look at the "
+"HELP DOCUMENTION)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H1 (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H1 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H2 (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H2 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H3 (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H3 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H4 (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H4 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H5 (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H5 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H6 (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "H6 Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Hide Footer Widget Area"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/404.php:4
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Homepage"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "If you dont want to add title, leave this field blank."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "If you dont want to use background filter, check this box."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "If you dont want to use footer widgets, check this box."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "If you want to remove gallery from your homepage, check this box."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid ""
+"If you want to remove latest blog posts from your homepage, check this box."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid ""
+"If you want to remove meta data (Author name, category name, tags) from "
+"single post pages, check this box."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Latest Blog Posts Title"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Linkedin"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Linkedin Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Main Menu"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Main Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Maximum Post"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Menu (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Menu Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Message Field Text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Message field text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/archive.php:15
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Name Field Text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Name field text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/comments.php:21
+msgid "Newer comments &#8250;"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/archive.php:52 dysania-wp/category.php:52
+#: dysania-wp/index.php:58 dysania-wp/search.php:44
+msgid "Newer posts &#8250;"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Paragraphs and other texts font size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Paypal"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Paypal Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/comments.php:29
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Read More..."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Recipient Name"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Recipient Name of the contact form e-mail"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Remove Bg Filter"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Remove Gallery"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Remove Latest Blog Posts"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Remove Meta Data"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1126
+msgid "Reset"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Rss"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Rss Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1114
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/search.php:12
+msgid "Search results for: %s"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Second Color"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Second Custom Icon Image"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Second Custom Icon Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Second Font-Family"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Second Font-Family (Default Font-Family is Open Sans)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Second Google Web Fonts Stylesheet Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Send Button Text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Send button text"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Single Post Page Style"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Site Title (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Site Title Font Size (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Skype"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Skype Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Slider Autoplay Speed"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Slider Autoplay Speed (Second)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Sliders"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Social Icons"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Subject of the contact form e-mail"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/single.php:55
+msgid "TAGS: "
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Theme Settings"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "There are 4 different single blog page style."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Third Color"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Third Custom Icon Image"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Third Custom Icon Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "To disable autoplay, check this box."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Twitter Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Under Construction Page Target Date"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Valid date string is: Month Day, Year Hour:Minute:Second"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Vimeo"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "Vimeo Link"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/archive.php:17
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "You Tube"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "You Tube Link"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/404.php:4
+msgid "You can return"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "You can use only numbers between 1 with 5. Default value is 2.5"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid ""
+"You can use this field to add custom scripts,styles,Google Analystics "
+"Tracking code etc."
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/includes/functions.php:240
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "ZeusSlider Height"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/under-construction.php:34
+msgid "days"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/under-construction.php:35
+msgid "hrs"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/under-construction.php:36
+msgid "min"
+msgstr ""
+
+#. Text in echo
+#: dysania-wp/404.php:4
+msgid "or search for the page you were looking for;"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/includes/functions.php:1136
+msgid "p (px)"
+msgstr ""
+
+#. Text in function
+#: dysania-wp/under-construction.php:37
+msgid "second"
+msgstr ""
